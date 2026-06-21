@@ -1,0 +1,32 @@
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\bin\Debug\net9.0-windows\calculate scores.exe
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\bin\Debug\net9.0-windows\calculate scores.deps.json
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\bin\Debug\net9.0-windows\calculate scores.runtimeconfig.json
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\bin\Debug\net9.0-windows\calculate scores.dll
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\bin\Debug\net9.0-windows\calculate scores.pdb
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate_scores.Form1.resources
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.csproj.GenerateResource.cache
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.AssemblyInfoInputs.cache
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.AssemblyInfo.cs
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.csproj.CoreCompileInputs.cache
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.dll
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\refint\calculate scores.dll
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.pdb
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\calculate scores.genruntimeconfig.cache
+C:\Users\ulusi\Desktop\pg-odev\calculate scores\obj\Debug\net9.0-windows\ref\calculate scores.dll
+C:\Users\ulusi\Desktop\ndp\calculate scores\bin\Debug\net9.0-windows\calculate scores.exe
+C:\Users\ulusi\Desktop\ndp\calculate scores\bin\Debug\net9.0-windows\calculate scores.deps.json
+C:\Users\ulusi\Desktop\ndp\calculate scores\bin\Debug\net9.0-windows\calculate scores.runtimeconfig.json
+C:\Users\ulusi\Desktop\ndp\calculate scores\bin\Debug\net9.0-windows\calculate scores.dll
+C:\Users\ulusi\Desktop\ndp\calculate scores\bin\Debug\net9.0-windows\calculate scores.pdb
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate_scores.Form1.resources
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.csproj.GenerateResource.cache
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.AssemblyInfoInputs.cache
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.AssemblyInfo.cs
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.csproj.CoreCompileInputs.cache
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.dll
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\refint\calculate scores.dll
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.pdb
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\calculate scores.genruntimeconfig.cache
+C:\Users\ulusi\Desktop\ndp\calculate scores\obj\Debug\net9.0-windows\ref\calculate scores.dll
